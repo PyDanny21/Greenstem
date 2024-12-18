@@ -164,7 +164,6 @@ h6 {
 
 .header .logo h1 {
   font-size: 30px;
-  font-family: monospace;
   margin: 0;
   font-weight: 700;
   color: var(--heading-color);
